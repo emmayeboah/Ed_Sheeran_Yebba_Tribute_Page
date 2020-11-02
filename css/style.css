@@ -1,0 +1,14 @@
+body {
+  background: url('../images/Ed_Sheeran_On_White.jpg') no-repeat center fixed;
+  background-size: cover;
+  color: white;
+}
+
+#tribute-link{
+  font-weight: bold;
+  color: red;
+}
+
+#title{
+  font-size: 20px;
+}
